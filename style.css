@@ -1,0 +1,57 @@
+
+ .first_row {
+  position: relative;
+  width: 90%;
+  display: inline;
+
+}
+
+.row {
+  display: flex;
+  text-align: center;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  }
+
+a{
+  display: block;
+}
+.link{
+  position: relative;
+  text-align: center;
+  width: 98%;
+  padding: 5px;
+  background-color: yellow;
+}
+.header{
+  text-align: center;
+  color: white;
+  width: 100%;
+  padding: 1px;
+  margin: 1px;
+  background-color: black;
+}
+.header2{
+  text-align: center;
+}
+.navigator{
+  position: relative;
+  left: 30%;
+  text-align: center;
+  width: 10%;
+  padding: 1px;
+  margin: 1px;
+  background-color : grey;
+  display: inline-block;
+
+}
+
+.title{
+  width: 100%;
+  padding: 1px;
+  margin: 1px;
+  background-color : #42f4eb;
+}
